@@ -16,4 +16,4 @@ To simplify property rentals through reliable and efficient technology, making r
 
 🚀 **Explore our repositories** for updates, features, and collaborative projects!  
 💡 **Got ideas?** Contributions and suggestions are always welcome!  
-📧 **Contact us:** info@restfort.com  
+📧 **Contact us:** info@restfort.co
